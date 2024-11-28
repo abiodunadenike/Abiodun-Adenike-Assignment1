@@ -5,11 +5,11 @@ greet_user (){
 }
 
 Fullname (){
-  echo "My name is Abiodun Adenike Olanrewaju"
+  echo "My name is Abiodun Adenike Olanrewaju."
 }
 
 Bio (){
-  echo "My name is Adenike i am a dynamic individual with a diverse range of passions and accomplishments. i'm from Lagos State,
+  echo "My name is Adenike i'm a dynamic individual with a diverse range of passions and accomplishments. i'm from Lagos State,
         A recent graduate of Lagos State University, i earned a Bachelor's degree in Mass Commuincation with
         Second Honors(Upper Division). My academic journey reflects my analytical mindset, strong problem-solving skills, 
         and a deep passion for learning.
@@ -56,7 +56,7 @@ Goals (){
         in the culinary art."
 }
 
-hobbies (){
+Hobbies (){
   echo "Reading Novels: I am an avid reader who appreciates the magic of literature, i love delving into novels that ignite 
         my imagination. Expand my perspective and take me on unforgetable jorneys, my love for reading is wide-ranging,
         encompassing fiction, horror, thriller, and self development books. Each genre offers me a unique experience-thrilling
@@ -85,4 +85,4 @@ Bio
 DreamJob
 YearInTech
 Goals
-hobbies
+Hobbies
