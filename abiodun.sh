@@ -76,7 +76,7 @@ hobbies (){
         and dedication to the gym a place where i find strength, balance, and motivation.
         
         Cooking: My love for cooking stems from my creative nature. Exploring flavors and experimenting with recipes is a joyful pursuit, and i
-        dream of honing my culinary skills in a professional setting. "
+        dream of honing my culinary skills in a professional setting."
 }
 
 greet_user "Cloud Engineer Instructor"
